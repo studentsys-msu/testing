@@ -1,4 +1,5 @@
 TEST GIT 
 TEST GIT  1
 
+Here's Jeane's text
 TEST GIT  2
